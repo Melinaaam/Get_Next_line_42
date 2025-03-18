@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: melinamotylewski <melinamotylewski@stud    +#+  +:+       +#+        */
+/*   By: memotyle <memotyle@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/18 10:50:53 by memotyle          #+#    #+#             */
-/*   Updated: 2024/07/23 15:24:52 by melinamotyl      ###   ########.fr       */
+/*   Updated: 2025/03/18 12:51:54 by memotyle         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

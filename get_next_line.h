@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: melinamotylewski <melinamotylewski@stud    +#+  +:+       +#+        */
+/*   By: memotyle <memotyle@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/18 11:36:05 by memotyle          #+#    #+#             */
-/*   Updated: 2024/07/23 15:25:17 by melinamotyl      ###   ########.fr       */
+/*   Updated: 2025/03/18 12:51:50 by memotyle         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
